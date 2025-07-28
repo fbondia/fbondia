@@ -1,7 +1,8 @@
 - 👋 Olá! Eu sou o Fabiano Bondia
 - 💻 Tenho mais de 20 anos de experiência em desenvolvimento de software
-- 🧠 Ultimamente ando focado em Inteligência Artificial e Aprendizado de Máquina
-- 📚 Tenho estudando IA aplicada ao desenvolvimento de sistemas, embeddings, agentes, e modelos de linguagem (LLMs)
+- 👀 Ultimamente ando focado em Inteligência Artificial e Aprendizado de Máquina
+- 🧠 Tenho estudando IA aplicada ao desenvolvimento de sistemas, embeddings, agentes, e modelos de linguagem (LLMs)
 - 🔧 Experimentando com Python, LangChain, Ollama, e integração de IA em aplicações práticas
-- 📂 Subindo alguns repositórios experimentais para compartilhar ideias, códigos e aprendizados
-- ✉️ Você pode me encontrar em fabiano.bondia@gmail.com e https://www.linkedin.com/in/fbondia/
+- 📚 Subindo alguns repositórios experimentais para compartilhar ideias, códigos e aprendizados
+- ✉️ Você pode me encontrar em fabiano.bondia@gmail.com
+- 🔗 Não publico muita coisa no linkedin, mas esse é meu perfil: https://www.linkedin.com/in/fbondia/
